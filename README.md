@@ -1,1 +1,1 @@
-# simple_web_crawler_python
+# simple web crawler in python
